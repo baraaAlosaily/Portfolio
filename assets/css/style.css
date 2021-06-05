@@ -1,0 +1,40 @@
+body {
+  margin: auto;
+  width: 1400px;
+  align-content: center;
+  font-family: "Staatliches", "cursive";
+}
+.image-main {
+  height: 422px;
+  width: 1400px;
+}
+.personel-img {
+  width: 100px;
+  height: 100px;
+}
+
+.image-main2 {
+  width: 1400px;
+}
+
+.row-1 {
+  display: grid;
+  grid-template-columns: 150px 1fr;
+  background-color: lightblue;
+  padding: 20px;
+  border-radius: 10px;
+}
+.wel {
+  position: relative;
+  bottom: 300px;
+  left: 170px;
+  font-family: "Staatliches", "cursive";
+  color: white;
+  font-size: 60px;
+}
+h3,
+h2 {
+  background-color: lightblue;
+  padding: 20px;
+  border-radius: 10px;
+}
